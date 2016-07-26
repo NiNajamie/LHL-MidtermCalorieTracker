@@ -1,0 +1,6 @@
+framework module Pods_LHL_MidtermCalorieTracker {
+  umbrella header "Pods-LHL-MidtermCalorieTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}

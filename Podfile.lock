@@ -1,0 +1,18 @@
+PODS:
+  - Realm (1.0.0):
+    - Realm/Headers (= 1.0.0)
+  - Realm/Headers (1.0.0)
+  - ZBJCalendar (0.0.1)
+
+DEPENDENCIES:
+  - Realm
+  - Realm/Headers
+  - ZBJCalendar
+
+SPEC CHECKSUMS:
+  Realm: e15cd8e7c11d3e576f628ba0b7cb855269b4991c
+  ZBJCalendar: 9a4450e1b3a5a1c44bd99b0368bb44c74a110ffe
+
+PODFILE CHECKSUM: 8c132dfad6137ea22f6c569d9446608272feea3e
+
+COCOAPODS: 1.0.1

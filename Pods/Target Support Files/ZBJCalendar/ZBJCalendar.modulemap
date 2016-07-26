@@ -1,0 +1,6 @@
+framework module ZBJCalendar {
+  umbrella header "ZBJCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}
